@@ -1,10 +1,10 @@
 {
   "step1": {
     "first-radio": {
-      "first-option-one": 0,
-      "first-option-two": 0,
-      "first-option-three": 0,
-      "first-option-four": 0
+      "first-option-one": 10,
+      "first-option-two": 2,
+      "first-option-three": 5,
+      "first-option-four": 18
     },
     "second-radio": {
       "second-option-one": 0,
