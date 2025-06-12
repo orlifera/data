@@ -24,8 +24,7 @@
       "memoria":0,
       "conflitti":0
     }
-  },
-  {
+   },
   "step2": {
     "1": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
     "2": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
