@@ -7,22 +7,22 @@
       "first-option-four": 18
     },
     "second-radio": {
-      "second-option-one": 0,
-      "second-option-two": 0,
-      "second-option-three": 0,
-      "second-option-four": 0
+      "second-option-one": 10,
+      "second-option-two": 20,
+      "second-option-three": 1,
+      "second-option-four": 4
     },
     "first-check": {
-      "lettore-lettore": 0,
-      "lettore-scrittore": 0,
-      "scrittore-scrittore": 0,
-      "lettore-scrittore-2": 0
+      "lettore-lettore": 10,
+      "lettore-scrittore": 20,
+      "scrittore-scrittore": 50,
+      "lettore-scrittore-2": 1
     },
     "second-check": {
-      "veloce": 0,
-      "accessi": 0,
-      "memoria": 0,
-      "conflitti": 0
+      "veloce": 10,
+      "accessi": 20,
+      "memoria": 3,
+      "conflitti": 40
     }
   },
   "step2": {
