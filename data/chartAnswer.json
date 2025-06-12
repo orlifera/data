@@ -1,1 +1,62 @@
-{"step1":{"first-radio":{"first-option-one":1,"first-option-two":0,"first-option-three":0,"first-option-four":0},"second-radio":{"second-option-one":1,"second-option-two":0,"second-option-three":0,"second-option-four":0},"first-check":{"lettore-lettore":0,"lettore-scrittore":0,"scrittore-scrittore":1,"lettore-scrittore-2":1},"second-check":{"veloce":1,"accessi":1,"memoria":0,"conflitti":0}},"step2":{"first-select":{"option-1":0,"option-2":0,"option-3":0,"option-4":0},"second-select":{"option-1":0,"option-2":0,"option-3":0,"option-4":0}}}
+{
+  "step1":{
+    "first-radio": {
+      "first-option-one":1,
+      "first-option-two":0,
+      "first-option-three":0,
+      "first-option-four":0
+    },
+    "second-radio": {
+      "second-option-one":1,
+      "second-option-two":0,
+      "second-option-three":0,
+      "second-option-four":0
+    },
+    "first-check": {
+      "lettore-lettore":0,
+      "lettore-scrittore":0,
+      "scrittore-scrittore":1,
+      "lettore-scrittore-2":1
+    },
+    "second-check": {
+      "veloce":1,
+      "accessi":1,
+      "memoria":0,
+      "conflitti":0
+    }
+  },
+  {
+  "step2": {
+    "1": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "2": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "3": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "4": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "5": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "6": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "7": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "8": { "Lettore": 0, "Scrittore": 0, "Nessuno": 0 },
+    "9": { "Pericoloso": 0, "Sicuro": 0, "Neutro": 0 },
+    "10": { "Pericoloso": 0, "Sicuro": 0, "Neutro": 0 },
+    "11": { "Pericoloso": 0, "Sicuro": 0, "Neutro": 0 },
+    "12": { "Pericoloso": 0, "Sicuro": 0, "Neutro": 0 },
+    "13": { "Pericoloso": 0, "Sicuro": 0, "Neutro": 0 },
+    "14": {
+      "nessun altro è attivo": 0,
+      " non ci sono scrittori": 0,
+      "è il primo nel turno": 0,
+      "ha il lock globale": 0
+    },
+    "15": {
+      "ci sono lettori": 0,
+      "nessuno sta leggendo o scrivendo": 0,
+      "ha priorità": 0,
+      "è stato richiesto da un timer": 0
+    },
+    "16": {
+      "sapere quando scrivere": 0,
+      "gestire l'accesso": 0,
+      "disegnare grafici": 0,
+      "inviare dati": 0
+    }
+  }
+}
